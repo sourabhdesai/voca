@@ -25,7 +25,7 @@ import tempfile
 import numpy as np
 import matplotlib as mpl
 import matplotlib.cm as cm
-from psbody.mesh import Mesh
+from mesh import Mesh
 
 def get_unit_factor(unit):
     if unit == 'mm':

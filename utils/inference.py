@@ -25,7 +25,7 @@ import tensorflow as tf
 from subprocess import call
 from scipy.io import wavfile
 
-from psbody.mesh import Mesh
+from mesh import Mesh
 from utils.audio_handler import  AudioHandler
 from utils.rendering import render_mesh_helper
 
