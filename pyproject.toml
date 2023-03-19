@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.8,<3.10"
 pip = "^23.0.1"
+mesh = {path = "mesh"}
 
 
 [build-system]
