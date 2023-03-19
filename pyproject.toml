@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "voca"
+version = "0.1.0"
+description = ""
+authors = ["Sourabh Desai <sourabhdesai@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.10"
+pip = "^23.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
