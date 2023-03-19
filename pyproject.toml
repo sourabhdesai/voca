@@ -12,9 +12,9 @@ opencv-python = "^4.7.0.72"
 tensorflow-cpu = "^2.11.0"
 resampy = "^0.4.2"
 numpy = "1.23.5"
-mesh = {path = "mesh", develop = true}
 python-speech-features = "^0.6"
 pyrender = "0.1.10"
+mesh = {path = "mesh", develop = true}
 
 
 [build-system]
